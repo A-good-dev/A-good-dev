@@ -48,6 +48,12 @@
 
 ---
 
+## 🐍 Contribution Activity
+
+![Snake](https://github.com/A-good-dev/A-good-dev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
