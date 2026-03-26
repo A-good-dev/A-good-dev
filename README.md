@@ -48,9 +48,13 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Activity
 
-![Snake Dark](https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake-dark.svg)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-good-dev&theme=tokyo-night)
+
+## 🐍 Contribution
+
+![Snake](https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake-dark.svg)
 
 ---
 
