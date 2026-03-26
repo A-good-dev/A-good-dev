@@ -50,19 +50,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-* 🔹 Project 1 – Short description
-* 🔹 Project 2 – Short description
-* 🔹 Project 3 – Short description
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:dm3693076@gmail.com)
 
 ---
 
