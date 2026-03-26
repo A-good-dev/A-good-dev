@@ -6,56 +6,56 @@
 
 ## 🧑‍💻 About Me
 
-* 💻 I build modern, fast, and scalable web applications
-* ⚡ Focus on clean UI/UX and performance
-* 🌱 Currently improving backend architecture & system design
-* 🎯 Goal: Deliver high-quality solutions for real-world problems
+* 💻 I build modern, scalable, and high-performance web apps
+* ⚡ Focused on clean UI/UX & fast loading speed
+* 🌱 Currently learning system design & advanced backend
+* 🎯 Helping clients turn ideas into real products
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🚀 Languages & Frameworks
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+</p>
 
-### Backend
+### 🗄️ Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-### Database
+### ⚙️ Tools & Platforms
 
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-
-### Tools & Others
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,firebase" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=A-good-dev\&show_icons=true\&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=A-good-dev&theme=tokyonight" height="160"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=A-good-dev\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev\&layout=compact\&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:dm3693076@gmail.com)
+<p>
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
-⭐️ From [A-good-dev](https://github.com/A-good-dev)
+⭐️ From https://github.com/A-good-dev
