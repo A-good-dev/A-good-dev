@@ -50,7 +50,7 @@
 
 ## 🐍 Contribution Activity
 
-![Snake](https://github.com/A-good-dev/A-good-dev/blob/output/github-contribution-grid-snake.svg)
+![Snake Dark](https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake-dark.svg)
 
 ---
 
