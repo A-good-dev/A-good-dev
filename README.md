@@ -18,7 +18,7 @@
 ### 🚀 Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,angular,vue,solidity,nodejs,express" />
 </p>
 
 ### 🗄️ Databases
@@ -39,7 +39,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=A-good-dev&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=A-good-dev&theme=light" height="160"/>
 </p>
 
 <p>
@@ -50,7 +50,7 @@
 
 ## 📈 Activity
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-good-dev&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-good-dev&theme=light)
 
 ## 🐍 Contribution
 
