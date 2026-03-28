@@ -54,7 +54,7 @@
 
 ## 🐍 Contribution
 
-![Snake](https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake.svg)
 
 ---
 
