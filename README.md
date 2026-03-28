@@ -38,12 +38,31 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=A-good-dev&theme=light" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=default" height="160"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=A-good-dev&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://streak-stats.demolab.com?user=A-good-dev&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=A-good-dev&theme=default" height="160"/>
+  </picture>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=tokyonight" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=default" height="160"/>
+  </picture>
 </p>
 
 ---
@@ -54,7 +73,11 @@
 
 ## 🐍 Contribution
 
-![Snake](https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/A-good-dev/A-good-dev/output/snake.svg" />
+</picture>
 
 ---
 
