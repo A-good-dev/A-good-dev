@@ -38,12 +38,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-good-dev&show_icons=true&theme=light&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-good-dev&show_icons=true&theme=light&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=A-good-dev&theme=light&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=light&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-good-dev&layout=compact&theme=light&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -67,13 +67,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="[YOUR_LINKEDIN](https://github.com/A-good-dev)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO">
+  <a href="[YOUR_PORTFOLIO](https://github.com/A-good-dev)">
     <img src="https://skillicons.dev/icons?i=webflow" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:[YOUR_EMAIL](https://github.com/A-good-dev)">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
